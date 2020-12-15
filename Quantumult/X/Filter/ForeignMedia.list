@@ -1,16 +1,16 @@
 # (British Media)
 # (Video)
 # > All4
-USER-AGENT,All4*,ForeignMedia
-DOMAIN-SUFFIX,c4assets.com,ForeignMedia
-DOMAIN-SUFFIX,channel4.com,ForeignMedia
+USER-AGENT,All4*,British Media
+DOMAIN-SUFFIX,c4assets.com,British Media
+DOMAIN-SUFFIX,channel4.com,British Media
 # > ITV
-USER-AGENT,ITV_Player*,ForeignMedia
-DOMAIN-SUFFIX,itv.com,ForeignMedia
-DOMAIN-SUFFIX,itvstatic.com,ForeignMedia
-DOMAIN,itvpnpmobile-a.akamaihd.net,ForeignMedia
+USER-AGENT,ITV_Player*,British Media
+DOMAIN-SUFFIX,itv.com,British Media
+DOMAIN-SUFFIX,itvstatic.com,British Media
+DOMAIN,itvpnpmobile-a.akamaihd.net,British Media
 # > My5
-USER-AGENT,My5*,ForeignMedia
-DOMAIN-SUFFIX,channel5.com,ForeignMedia
-DOMAIN-SUFFIX,my5.tv,ForeignMedia
-DOMAIN,d349g9zuie06uo.cloudfront.net,ForeignMedia
+USER-AGENT,My5*,British Media
+DOMAIN-SUFFIX,channel5.com,British Media
+DOMAIN-SUFFIX,my5.tv,British Media
+DOMAIN,d349g9zuie06uo.cloudfront.net,British Media
