@@ -14,3 +14,8 @@ USER-AGENT,My5*,British Media
 DOMAIN-SUFFIX,channel5.com,British Media
 DOMAIN-SUFFIX,my5.tv,British Media
 DOMAIN,d349g9zuie06uo.cloudfront.net,British Media
+# > My5
+HOST-KEYWORD,uktv,British Media
+HOST,bcbolt-uktv.akamaized.net,British Media
+HOST,logws1363.ati-host.net,British Media
+DOMAIN-SUFFIX,uktv.co.uk,British Media
